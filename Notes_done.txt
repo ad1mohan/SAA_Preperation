@@ -1,0 +1,23 @@
+AWS Infrastructure
+    AWS Region
+    AZ (Availability zones)
+Security, Identity & Compliance
+    IAM (Identity and Access Management)
+    Access AWS programmatically
+    Access AWS for Non-IAM users - 
+    Amazon Cognito
+        Cognito User Pools
+        Cognito Identity Pools 
+    AWS Key Management Service (KMS)
+    AWS Systems Manager
+        Parameter Store
+        Run Command 
+        Session Manager
+    AWS Secrets Manager
+    AWS Shield
+    AWS WAF
+    AWS Firewall Manager
+    AWS GuardDuty
+    Amazon Inspector
+    Amazon Macie
+    AWS Config
